@@ -136,4 +136,4 @@ sns.pairplot(df)
 ![image](https://github.com/user-attachments/assets/8b47628e-1654-431b-9be0-a9c48b114bf4)
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+      exploratory data analysis using python is summited successfully
